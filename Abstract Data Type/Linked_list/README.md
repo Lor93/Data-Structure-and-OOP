@@ -1,1 +1,1 @@
-This is an ADT Link List.
+This is an ADT with the foucs on using Link List.
